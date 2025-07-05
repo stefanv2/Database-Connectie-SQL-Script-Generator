@@ -60,8 +60,6 @@ Ideaal voor herbruikbare SQL-scripts, auditqueries, en ad-hoc connecties zonder 
 
 \## 🚀 Installatie
 
-
-
 1\. Zorg dat Python 3.10+ is geïnstalleerd
 
 2\. Installeer dependencies:
@@ -121,9 +119,6 @@ Stap 2: Maak een credentials.json
   "password": "tiger"
 }
 Stap 3: Versleutel met versleutel.py
-python
-Kopiëren
-Bewerken
 from cryptography.fernet import Fernet
 
 # Lees de sleutel in
