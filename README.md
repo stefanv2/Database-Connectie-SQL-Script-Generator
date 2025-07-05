@@ -1,4 +1,6 @@
-\# Database Connectie - SQL Script Generator
+<h1 align="center" style="color:#0d6efd;">🧩 Database Connectie – SQL Script Generator</h1>
+
+<p align="center"><strong>Een krachtige PyQt6 GUI-tool voor Oracle databasebeheer</strong></p>
 
 
 <p align="center">
