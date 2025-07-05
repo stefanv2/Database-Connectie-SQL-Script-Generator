@@ -1,0 +1,9 @@
+key.key
+credentials.enc
+credentials.json
+__pycache__/
+*.pyc
+*.log
+*.sql
+*.bat
+.vscode/

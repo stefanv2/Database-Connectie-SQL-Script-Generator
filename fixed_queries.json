@@ -1,0 +1,7 @@
+{
+    "tablespace_usage.sql": "Deze query toont een overzicht van de tablespaces, inclusief totaal, gebruikt en vrije ruimte.",
+    "user_list.sql": "Deze query geeft een lijst van alle gebruikers (exclusief SYS en SYSTEM) weer.",
+    "datapump_jobs.sql": "Deze query geeft informatie over lopende Data Pump jobs weer.",
+    "Top10.sql": "Dit laat de zwaarste gebruikers zien van de database.",
+    "logons.sql": "Dit is de logon trigger output ===== Login Log Overzicht =====." 
+}
