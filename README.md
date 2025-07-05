@@ -1,6 +1,10 @@
 \# Database Connectie - SQL Script Generator
 
 
+<p align="center">
+<img src="logo.png" alt="BTOP" width="120" height="120"/>  
+</p>
+
 
 Een Python GUI-tool (PyQt6) voor het snel opzetten van een Oracle databaseconnectie, uitvoeren van vaste SQL-query's en het genereren van uitvoerbare SQL-scripts met opties zoals spool, linesize, heading en gebruikersbeheer.
 
