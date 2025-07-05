@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="logo.png" alt="BTOP" width="120" height="120"/>  
+<img src="logo.png" alt="BTOP" width="300" height="300"/>  
 </p>
 
 
